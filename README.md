@@ -1,6 +1,6 @@
 # pygame-snake
 
-A minimalist Snake game recreated using Python and Pygame. Built as a design and logic exercise, this version emphasizes tight controls, responsive UI, and clean visuals.
+A minimalist Snake game recreated using Python and Pygame. Built as a design and logic exercise, this version emphasizes tight controls, responsive UI, and clean visuals using custom pixel art assets.
 
 ## Features
 - Classic snake movement with food generation
